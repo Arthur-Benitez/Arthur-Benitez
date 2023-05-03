@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturobl/)
 <script>
-<a aria-label="Chat on WhatsApp" href="https://wa.me/1XXXXXXXXXX"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg" />
+<a aria-label="Chat on WhatsApp" href="https://wa.me/525535967034?text=Exciting%20Job%20Opportunity"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg"/>
 </script>
 
 # 💻 Tech Stack:
