@@ -24,9 +24,11 @@
           </icon>
         </div>
       
-        <div class="profile-badge__content">  
+        <div class="profile-badge__content">
+          <!--
           <img class="artdeco-entity-image artdeco-entity-image--circle-4 profile-badge__content-profile-image" alt="Arthur Benitez" src="https://media.licdn.com/dms/image/D4E03AQHNLXhucJIy2w/profile-displayphoto-shrink_200_200/0/1679462673885?e=1688601600&amp;v=beta&amp;t=NkJHtTIu1ZpsfH_3gfagvTLTJDofSsXpc8H7ADoxaxc">
           </img>
+          -->
           <h3 class="profile-badge__content-profile-name" itemprop="name">
             <a class="profile-badge__content-profile-name-link profile-badge__content-profile-name-link--dark" href="https://mx.linkedin.com/in/arturobl?trk=public-profile-badge-profile-badge-profile-name" data-tracking-control-name="public-profile-badge-profile-badge-profile-name" data-tracking-will-navigate="">
               Arthur Benitez
