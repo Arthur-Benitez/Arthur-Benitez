@@ -35,7 +35,11 @@ Here are some ideas to get you started:
   <a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/arturobl?trk=profile-badge">
     Arthur Benitez
   </a>
- </div>
+  
+  <a aria-label="Test">
+    <img src="LinkedInBadge_hc.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
 
   
