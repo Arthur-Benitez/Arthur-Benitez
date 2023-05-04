@@ -25,17 +25,18 @@
       
         <div class="profile-badge__content">  
           <img class="artdeco-entity-image artdeco-entity-image--circle-4 profile-badge__content-profile-image" alt="Arthur Benitez" src="https://media.licdn.com/dms/image/D4E03AQHNLXhucJIy2w/profile-displayphoto-shrink_200_200/0/1679462673885?e=1688601600&amp;v=beta&amp;t=NkJHtTIu1ZpsfH_3gfagvTLTJDofSsXpc8H7ADoxaxc">
+          </img>
           <h3 class="profile-badge__content-profile-name" itemprop="name">
             <a class="profile-badge__content-profile-name-link profile-badge__content-profile-name-link--dark" href="https://mx.linkedin.com/in/arturobl?trk=public-profile-badge-profile-badge-profile-name" data-tracking-control-name="public-profile-badge-profile-badge-profile-name" data-tracking-will-navigate="">
               Arthur Benitez
             </a>
           </h3>
-            <h4 class="profile-badge__content-profile-headline">
-              Ops Intelligence Senior Data Analyst @ Mercado Libre   |  SQL, BigQuery, Looker, Excel, R, Python, Alteryx, Tableau, Git, etc.
-            </h4>
-            <h4 class="profile-badge__content-profile-company-school-info">
-              <a href="https://www.linkedin.com/company/mercadolibre?trk=public-profile-badge-profile-badge_company-name" class="profile-badge__content-profile-company-school-info-link profile-badge__content-profile-company-school-info-link--dark" data-tracking-control-name="public-profile-badge-profile-badge_company-name" data-tracking-will-navigate="true">Mercado Libre</a> | <a href="https://www.linkedin.com/school/tecdemonterrey/?trk=public-profile-badge-profile-badge_school-name" class="profile-badge__content-profile-company-school-info-link profile-badge__content-profile-company-school-info-link--dark" data-tracking-control-name="public-profile-badge-profile-badge_school-name" data-tracking-will-navigate="true">TECNOLÓGICO DE MONTERREY</a>
-            </h4>
+          <h4 class="profile-badge__content-profile-headline">
+            Ops Intelligence Senior Data Analyst @ Mercado Libre   |  SQL, BigQuery, Looker, Excel, R, Python, Alteryx, Tableau, Git, etc.
+          </h4>
+          <h4 class="profile-badge__content-profile-company-school-info">
+            <a href="https://www.linkedin.com/company/mercadolibre?trk=public-profile-badge-profile-badge_company-name" class="profile-badge__content-profile-company-school-info-link profile-badge__content-profile-company-school-info-link--dark" data-tracking-control-name="public-profile-badge-profile-badge_company-name" data-tracking-will-navigate="true">Mercado Libre</a> | <a href="https://www.linkedin.com/school/tecdemonterrey/?trk=public-profile-badge-profile-badge_school-name" class="profile-badge__content-profile-company-school-info-link profile-badge__content-profile-company-school-info-link--dark" data-tracking-control-name="public-profile-badge-profile-badge_school-name" data-tracking-will-navigate="true">TECNOLÓGICO DE MONTERREY</a>
+          </h4>
         </div>
       
         <a class="profile-badge__cta-btn profile-badge__cta-btn--dark" href="https://mx.linkedin.com/in/arturobl?trk=public-profile-badge-profile-badge-view-profile-cta" target="_blank" data-tracking-control-name="public-profile-badge-profile-badge-view-profile-cta" data-tracking-will-navigate="">
