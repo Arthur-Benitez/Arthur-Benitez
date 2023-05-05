@@ -1,60 +1,73 @@
-<h1 align="center">
-  Hi 👋, I'm Arthur Benitez
-</h1>
-
-<div style="width: 100%;">
-  <p align="center">
-    <a>
-      <img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=400&height=45&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+business?;Contact+me...;Data+and+Business+Analyst&center=true">
-    </a>
-  </p>
+<div align="center">
+	<img src="https://github.com/raushan606/raushan606/blob/output/github-contribution-grid-snake.svg" />
 </div>
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
------------------------------------------------------------------------------------------------------------------->
+<h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Junior+Software+Engineer;Java+Software+Developer;Interseted+in+Backend;Nice+To+Meet+You+...&center=true"></a>
+</p>
+
+- 👨‍💻 I'm some sort of a full-stack developer?
+- 🌱 I work a lot with Java especially with Spring Boot and I'm afraid for languages such as Rust!
+- 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
+- 👯‍♀️ I like to discuss coding with others and learn more.
+- 📫 I do not write blog posts and my twitter is mostly used when I'm bored or waiting for something.
+- ❓ Want to know more about me? You can always contact me via serval social medias!
+- 📫 How to reach me **raushankumar606@gmail.com**
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturobl/)
+<h3 align="left">Connect with me:</h3> 
+<div align="left">
+<!-- <a href="https://linkedin.com/in/u77w41" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  -->
+<!-- <a href="https://github.com/u77w41" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> -->
+<a href="https://twitter.com/UjjwalCh0wdhury" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 
----
-
-<div style="width: 100%;">
-  <a href="https://github.com/Arthur-Benitez/Arthur-Benitez/blame/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
+</div>  
   
-  <a aria-label="Chat on WhatsApp" href="https://wa.me/525535967034?text=Exciting%20Job%20Opportunity">
-    <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg"/>
+<br/> 
+  
+⭐️ From [raushan606](https://github.com/raushan606)
+
+
+## Current projects
+<!-- - [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
+- [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes -->
+- Some other small side-projects that are not important enough to mention
+
+
+### Github Stats  
+<div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raushan606&theme=github_dark" align="left" style="width: 47%"/></div>  
+ 
+ <div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raushan606&theme=2077" align="left" style="width: 47%"/></div> 
+
+
 </div>
 
- 
+<br />
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=raushan606&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"  style="width: 80%" />
+</div>
+	
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+### WakaTime Activity Stats:
+	
+	
+<!--START_SECTION:waka-->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arthur-Benitez&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Benitez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Benitez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+```text
+From: 03 April 2023 - To: 03 May 2023
+Total Time: 62 hrs 9 mins
+Java             55 hrs 2 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.55 %
+HTML             3 hrs 41 mins   >------------------------   05.94 %
+Log              1 hr 21 mins    >------------------------   02.19 %
+XML              53 mins         -------------------------   01.43 %
+CSS              31 mins         -------------------------   00.85 %
+Text             30 mins         -------------------------   00.81 %
+```
 
-
-
----
-![](https://visitcount.itsvg.in/api?id=Arthur-Benitez&icon=5&color=3)
+<!--END_SECTION:waka-->
