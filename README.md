@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Junior+Software+Engineer;Java+Software+Developer;Interseted+in+Backend;Nice+To+Meet+You+...&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=400&height=45&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+business?;Contact+me...;Data+and+Business+Analyst&center=true"></a>
 </p>
 
 - 👨‍💻 I'm some sort of a full-stack developer?
