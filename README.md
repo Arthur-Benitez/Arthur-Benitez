@@ -28,18 +28,20 @@ Here are some ideas to get you started:
     <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg"/>
 </div>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
-</script>
+<body>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
+  </script>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="arturobl" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/arturobl?trk=profile-badge">
-    Arthur Benitez
-  </a>
-  
-  <a aria-label="Test">
-    <img src="LinkedInBadge_hc.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="arturobl" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/arturobl?trk=profile-badge">
+      Arthur Benitez
+    </a>
+
+    <a aria-label="Test">
+      <img src="LinkedInBadge_hc.svg" style="width: 100%;" alt="Click to see the source">
+    </a>
+  </div>
+</body>
 
 
   
