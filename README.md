@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Arthur Benitez</h1>
-<div>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=500&height=45&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+business?;Contact+me...;Data+and+Business+Analyst&center=true">
-</p>
+<h1 align="center">
+  Hi 👋, I'm Arthur Benitez
+</h1>
+
+<div style="width: 100%;">
+  <p align="center">
+    <a>
+      <img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=400&height=45&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+business?;Contact+me...;Data+and+Business+Analyst&center=true">
+    </a>
+  </p>
 </div>
 <!--
 Here are some ideas to get you started:
@@ -32,23 +37,7 @@ Here are some ideas to get you started:
     <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg"/>
 </div>
 
-<body>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
-  </script>
-
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="arturobl" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/arturobl?trk=profile-badge">
-      Arthur Benitez
-    </a>
-
-    <a aria-label="Test">
-      <img src="LinkedInBadge_hc.svg" style="width: 100%;" alt="Click to see the source">
-    </a>
-  </div>
-</body>
-
-
-  
+ 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
@@ -65,8 +54,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Benitez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Benitez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Arthur-Benitez&icon=5&color=3)
