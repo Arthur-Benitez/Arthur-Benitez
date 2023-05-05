@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=100%&height=100&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+business?;Contact+me...;Data+&+Business+Analyst&center=true">
+</a>
+</p>
 <!--
 Here are some ideas to get you started:
 
