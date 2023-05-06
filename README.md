@@ -1,18 +1,22 @@
-<style>
-    .matrix-prompt {
-	background-color: #FFFFFF;
-	text-align: center;
-	width: 100%;
-    }
-</style>
+
 
 <h1 align = "center">
   Hi 👋, I'm Arthur Benitez
 </h1>
 
-<div class = "matrix-prompt">
-	<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&width=700&height=60&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+Business?;Contact+me...;Data+and+Business+Analyst&center=true">
-</div>
+<body>
+	<style>
+	    .matrix-prompt {
+		background-color: #FFFFFF;
+		text-align: center;
+		width: 100%;
+	    }
+	</style>
+	
+	<div class = "matrix-prompt">
+		<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&width=700&height=60&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+Business?;Contact+me...;Data+and+Business+Analyst&center=true">
+	</div>
+</body>
 
 <!--
 Here are some ideas to get you started:
