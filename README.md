@@ -1,19 +1,32 @@
-<div align="center">
-	<img src="https://github.com/raushan606/raushan606/blob/output/github-contribution-grid-snake.svg" />
-</div>
+<h1 align="center">
+  Hi 👋, I'm Arthur Benitez
+</h1>
 
-<h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=400&height=45&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+business?;Contact+me...;Data+and+Business+Analyst&center=true"></a>
+	<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=400&height=45&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+business?;Contact+me...;Data+and+Business+Analyst&center=true">
+	</a>
 </p>
 
-- 👨‍💻 I'm some sort of a full-stack developer?
-- 🌱 I work a lot with Java especially with Spring Boot and I'm afraid for languages such as Rust!
-- 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
-- 👯‍♀️ I like to discuss coding with others and learn more.
-- 📫 I do not write blog posts and my twitter is mostly used when I'm bored or waiting for something.
-- ❓ Want to know more about me? You can always contact me via serval social medias!
-- 📫 How to reach me **raushankumar606@gmail.com**
+<!--
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+------------------------------------------------------------------------------------------------------------------>
+
+<div style="width: 100%;">
+  <a href="https://github.com/Arthur-Benitez/Arthur-Benitez/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+  
+  <a aria-label="Chat on WhatsApp" href="https://wa.me/525535967034?text=Exciting%20Job%20Opportunity">
+    <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg"/>
+</div>
 
 
 <h3 align="left">Connect with me:</h3> 
@@ -52,22 +65,6 @@
 <br />
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=raushan606&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"  style="width: 80%" />
 </div>
-	
 
-### WakaTime Activity Stats:
-	
-	
-<!--START_SECTION:waka-->
-
-```text
-From: 03 April 2023 - To: 03 May 2023
-Total Time: 62 hrs 9 mins
-Java             55 hrs 2 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.55 %
-HTML             3 hrs 41 mins   >------------------------   05.94 %
-Log              1 hr 21 mins    >------------------------   02.19 %
-XML              53 mins         -------------------------   01.43 %
-CSS              31 mins         -------------------------   00.85 %
-Text             30 mins         -------------------------   00.81 %
-```
-
-<!--END_SECTION:waka-->
+---
+![](https://visitcount.itsvg.in/api?id=Arthur-Benitez&icon=5&color=3)
