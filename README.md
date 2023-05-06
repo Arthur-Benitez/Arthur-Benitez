@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=400&height=45&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+business?;Contact+me...;Data+and+Business+Analyst&center=true">
+	<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=200&height=45&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+business?;Contact+me...;Data+and+Business+Analyst&center=true">
 	</a>
 </p>
 
@@ -28,43 +28,25 @@ Here are some ideas to get you started:
     <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg"/>
 </div>
 
-
-<h3 align="left">Connect with me:</h3> 
-<div align="left">
-<!-- <a href="https://linkedin.com/in/u77w41" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  -->
-<!-- <a href="https://github.com/u77w41" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> -->
-<a href="https://twitter.com/UjjwalCh0wdhury" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-</div>  
-  
-<br/> 
-  
-⭐️ From [raushan606](https://github.com/raushan606)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturobl/)
 
 
-## Current projects
-<!-- - [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
-- [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes -->
-- Some other small side-projects that are not important enough to mention
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Arthur-Benitez&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Benitez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Benitez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### Github Stats  
-<div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raushan606&theme=github_dark" align="left" style="width: 47%"/></div>  
- 
- <div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raushan606&theme=2077" align="left" style="width: 47%"/></div> 
-
-
-</div>
-
-<br />
-<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=raushan606&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"  style="width: 80%" />
-</div>
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Arthur-Benitez&icon=5&color=3)
