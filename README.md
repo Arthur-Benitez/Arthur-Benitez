@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=600&height=45&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+business?;Contact+me...;Data+and+Business+Analyst&center=true">
+	<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=700&height=60&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+business?;Contact+me...;Data+and+Business+Analyst&center=true">
 </p>
 
 <!--
