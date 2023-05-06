@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=700&height=60&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+business?;Contact+me...;Data+and+Business+Analyst&center=true">
+	<img src="https://readme-typing-svg.herokuapp.com/?color=2F5496&width=700&height=60&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+Business?;Contact+me...;Data+and+Business+Analyst&center=true">
 </p>
 
 <!--
@@ -22,13 +22,13 @@ Here are some ideas to get you started:
   <a href="https://github.com/Arthur-Benitez/Arthur-Benitez/blame/main/welcome.svg">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
-  
-  <a aria-label="Chat on WhatsApp" href="https://wa.me/525535967034?text=Exciting%20Job%20Opportunity">
-    <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg"/>
 </div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturobl/)
+<a aria-label="Chat on WhatsApp" href="https://wa.me/525535967034?text=Exciting%20Job%20Opportunity">
+	<img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg"/>
+</a>
 
 
 # 💻 Tech Stack:
