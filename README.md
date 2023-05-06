@@ -2,9 +2,11 @@
   Hi 👋, I'm Arthur Benitez
 </h1>
 
-<p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&width=700&height=60&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+Business?;Contact+me...;Data+and+Business+Analyst&center=true">
-</p>
+<div style="width: 100%;  background-color: #FFFFFF">
+	<p align="center">
+		<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&width=700&height=60&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+Business?;Contact+me...;Data+and+Business+Analyst&center=true">
+	</p>
+</div>
 
 <!--
 Here are some ideas to get you started:
