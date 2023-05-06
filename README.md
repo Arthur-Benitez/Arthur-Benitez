@@ -4,7 +4,7 @@
   Hi 👋, I'm Arthur Benitez
 </h1>
 
-<body>
+<div>
 	<style>
 	    .matrix-prompt {
 		background-color: #FFFFFF;
@@ -16,7 +16,7 @@
 	<div class = "matrix-prompt">
 		<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&width=700&height=60&lines=Ready+to+Unleash+the+Full+Power+of+Data+for+your+Business?;Contact+me...;Data+and+Business+Analyst&center=true">
 	</div>
-</body>
+</div>
 
 <!--
 Here are some ideas to get you started:
