@@ -4,7 +4,7 @@
   Hi 👋, I'm Arthur Benitez
 </h1>
 
-<img src="matrix-prompt.svg"/>
+<img src="matrix-prompt.svg" style="width: 100%;" align="center"/>
 
 <!--
 Here are some ideas to get you started:
