@@ -21,7 +21,7 @@
           100%  {background-position: 0%    50%;}
         }
         @media (prefers-color-scheme: light) {
-          .body {
+          .container {
             --color-main:         #000000;
             --color-primary:      #6eacd9;
             --color-secondary:    #9bb7d4;
