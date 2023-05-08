@@ -1,5 +1,5 @@
 
-<svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 20 800 450" width="800" height="450" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -22,29 +22,27 @@
         }
         @media (prefers-color-scheme: light) {
           .body {
-            --color-main:         #9B5DE5;
-            --color-primary:      #F15BB5;
-            --color-secondary:    #00BBF9;
-            --color-background:   #ffffff;
-            --color-link:         #00BBF9;
-            --color-link-active:  #F15BB5;
+            --color-main:         #000000;
+            --color-primary:      #6eacd9;
+            --color-secondary:    #9bb7d4;
+            --color-tertiary:     #48698200;
           }
         }
         .container {
           --color-main:       #ffffff;
-          --color-primary:    #ffd166;
-          --color-secondary:  #06d6a0;
-          --color-tertiary:   #118ab2;
+          --color-primary:    #2F5496;
+          --color-secondary:  #293c4a;
+          --color-tertiary:   #48698200;
           background: linear-gradient(
-            -45deg,
+            90deg,
             var(--color-primary),
             var(--color-secondary),
             var(--color-tertiary)
           );
           background-size: 400% 400%;
-          animation: gradient 5s ease infinite;
+          animation: gradient 10s ease infinite;
           width: 100%;
-          height: 400px;
+          height: 450px;
           display: flex;
           flex-direction: column;
           justify-content: center;
