@@ -3,32 +3,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @keyframes waving  {
-          25%   {transform: rotate(0deg)  ;}
-          30%   {transform: rotate(45deg) ;}
-          35%   {transform: rotate(0deg)  ;}
-          40%   {transform: rotate(45deg) ;}
-          45%   {transform: rotate(0deg)  ;}
-          80%   {transform: rotate(0deg)  ;}
-          85%   {transform: rotate(45deg) ;}
-          90%   {transform: rotate(0deg)  ;}
-          95%   {transform: rotate(45deg) ;}
-          100%  {transform: rotate(0deg)  ;}
-        }
-        @keyframes gradient {
-          0%    {background-position: 0%    50%;}
-          50%   {background-position: 100%  50%;}
-          100%  {background-position: 0%    50%;}
-        }
-        @media (prefers-color-scheme: light) {
-          .container {
-            --color-main:         #000000;
-            --color-primary:      #6eacd9;
-            --color-secondary:    #9bb7d4;
-            --color-tertiary:     #48698200;
-          }
-        }
-        .container {
+        .body {
           --color-main:       #ffffff;
           --color-primary:    #2F5496;
           --color-secondary:  #293c4a;
@@ -72,9 +47,40 @@
           font-weight: 500;
           font-family: "Open Sans", sans-serif;
         }
+        @keyframes waving  {
+          25%   {transform: rotate(0deg)  ;}
+          30%   {transform: rotate(45deg) ;}
+          35%   {transform: rotate(0deg)  ;}
+          40%   {transform: rotate(45deg) ;}
+          45%   {transform: rotate(0deg)  ;}
+          80%   {transform: rotate(0deg)  ;}
+          85%   {transform: rotate(45deg) ;}
+          90%   {transform: rotate(0deg)  ;}
+          95%   {transform: rotate(45deg) ;}
+          100%  {transform: rotate(0deg)  ;}
+        }
+        @keyframes gradient {
+          0%    {background-position: 0%    50%;}
+          50%   {background-position: 100%  50%;}
+          100%  {background-position: 0%    50%;}
+        }
+        @media (prefers-color-scheme: light) {
+          .body {
+            --color-main:         #000000;
+            --color-primary:      #6eacd9;
+            --color-secondary:    #9bb7d4;
+            --color-tertiary:     #48698200;
+            background: linear-gradient(
+              90deg,
+              var(--color-primary),
+              var(--color-secondary),
+              var(--color-tertiary)
+            );
+          }
+        }
       </style>
 
-      <div class="container">
+      <div class="body">
         <h2 style="margin-top: 0px;">Hi there, I'm a Senior Data Analyst! 
           <div class="waving">👋</div>
         </h2>
