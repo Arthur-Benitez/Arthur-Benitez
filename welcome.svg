@@ -70,12 +70,6 @@
             --color-primary:      #6eacd9;
             --color-secondary:    #9bb7d4;
             --color-tertiary:     #48698200;
-            background: linear-gradient(
-              90deg,
-              var(--color-primary),
-              var(--color-secondary),
-              var(--color-tertiary)
-            );
           }
         }
       </style>
