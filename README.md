@@ -24,11 +24,40 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## 🌐 Socials:
+## 🌐 Relevant contact links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturobl/)
-<a aria-label="Chat on WhatsApp" href="https://wa.me/525535967034?text=Exciting%20Job%20Opportunity">
-	<img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg"/>
-</a>
+
+Click on any icon:
+
+<table cellspacing="5" cellpadding="5" width="100%">
+	<tr> 
+    	<td align="center">
+			<a href="https://www.linkedin.com/in/arturobl/">
+				<img src="img/svg/linkedin-icon.svg"  height="75px/>
+			</a>
+    	</td>
+    	<td align="center">
+      		<a aria-label="Chat on WhatsApp" href="https://wa.me/525535967034?text=Exciting%20Job%20Opportunity">
+				<img alt="Chat on WhatsApp" src="img/svg/whatsapp-button-green-large.svg"  height="75px/>
+			</a>
+    	</td>
+		<td align="center">
+			<a href="mailto:arturodbl@outlook.com?subject=Exciting%20Job%20Opportunity">
+				<img src="img/svg/mail-icon.svg"  height="75px/>
+			</a>  
+		</td>
+    	<td align="center">
+      		<a href="https://profile.indeed.com/p/arturob-2sf2nxd">
+        		<img src="img/svg/indeed-icon.svg" height="75px"/>
+      		</a>  
+    	</td>
+		<td align="center">
+      		<a href="">
+        		<img src="img/svg/portfolio-icon.svg" height="75px"/><br>Portfolio
+      		</a>
+    	</td>
+	</tr>
+</table>
 
 
 # 💻 Tech Stack:
