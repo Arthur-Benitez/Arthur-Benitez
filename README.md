@@ -1,9 +1,4 @@
 
-
-<h1 align = "center">
-  Hi 👋, I'm Arthur Benitez
-</h1>
-
 <img src="img/svg/matrix-prompt.svg" style="width: 100%;" align="center"/>
 
 <!--
@@ -27,33 +22,50 @@ Here are some ideas to get you started:
 ## 🌐 Relevant contact links:
 Click on any icon:
 
-<div align="center">
+<div align="center">	
 	<table cellspacing="5" cellpadding="5" width="100%">
 		<tr> 
 			<td align="center">
 				<a href="https://www.linkedin.com/in/arturobl/">
-					<img src="img/svg/linkedin-icon.svg"  height="75px"><br>LinkedIn
+					<img src="img/svg/linkedin-icon.svg"  height="75px">
 				</a>
 			</td>
 			<td align="center">
 				<a href="https://wa.me/525535967034?text=Exciting%20Job%20Opportunity">
-					<img src="img/svg/whatsapp-icon.svg"  height="75px"><br>WhatsApp
+					<img src="img/svg/whatsapp-icon.svg"  height="75px">
 				</a>
 			</td>
 			<td align="center">
 				<a href="mailto:arturodbl@outlook.com?subject=Exciting%20Job%20Opportunity">
-					<img src="img/svg/mail-icon.svg"  height="75px"><br>E-mail
+					<img src="img/svg/mail-icon.svg"  height="75px">
 				</a>  
 			</td>
 			<td align="center">
 				<a href="https://profile.indeed.com/p/arturob-2sf2nxd">
-					<img src="img/svg/indeed-icon.svg" height="75px"><br>Indeed
+					<img src="img/svg/indeed-icon.svg" height="75px">
 				</a>  
 			</td>
 			<td align="center">
 				<a href="">
-					<img src="img/svg/portfolio-icon.svg" height="75px"><br>Portfolio
+					<img src="img/svg/portfolio-icon.svg" height="75px">
 				</a>
+			</td>
+		</tr>
+		<tr> 
+			<td align="center">
+				LinkedIn
+			</td>
+			<td align="center">
+				WhatsApp
+			</td>
+			<td align="center">
+				E-mail 
+			</td>
+			<td align="center">
+				Indeed
+			</td>
+			<td align="center">
+				Portfolio
 			</td>
 		</tr>
 	</table>
