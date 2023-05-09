@@ -4,7 +4,7 @@
   Hi 👋, I'm Arthur Benitez
 </h1>
 
-<img src="matrix-prompt.svg" style="width: 100%;" align="center"/>
+<img src="img/svg/matrix-prompt.svg" style="width: 100%;" align="center"/>
 
 <!--
 Here are some ideas to get you started:
@@ -27,36 +27,37 @@ Here are some ideas to get you started:
 ## 🌐 Relevant contact links:
 Click on any icon:
 
-<table cellspacing="5" cellpadding="5" width="100%">
-	<tr> 
-    	<td align="center">
-			<a href="https://www.linkedin.com/in/arturobl/">
-				<img src="img/svg/linkedin-icon.svg"  height="75px/>
-			</a>
-    	</td>
-    	<td align="center">
-      		<a aria-label="Chat on WhatsApp" href="https://wa.me/525535967034?text=Exciting%20Job%20Opportunity">
-				<img alt="Chat on WhatsApp" src="img/svg/whatsapp-button-green-large.svg"  height="75px/>
-			</a>
-    	</td>
-		<td align="center">
-			<a href="mailto:arturodbl@outlook.com?subject=Exciting%20Job%20Opportunity">
-				<img src="img/svg/mail-icon.svg"  height="75px/>
-			</a>  
-		</td>
-    	<td align="center">
-      		<a href="https://profile.indeed.com/p/arturob-2sf2nxd">
-        		<img src="img/svg/indeed-icon.svg" height="75px"/>
-      		</a>  
-    	</td>
-		<td align="center">
-      		<a href="">
-        		<img src="img/svg/portfolio-icon.svg" height="75px"/><br>Portfolio
-      		</a>
-    	</td>
-	</tr>
-</table>
-
+<div align="center">
+	<table cellspacing="5" cellpadding="5" width="100%">
+		<tr> 
+			<td align="center">
+				<a href="https://www.linkedin.com/in/arturobl/">
+					<img src="img/svg/linkedin-icon.svg"  height="75px"><br>LinkedIn
+				</a>
+			</td>
+			<td align="center">
+				<a href="https://wa.me/525535967034?text=Exciting%20Job%20Opportunity">
+					<img src="img/svg/whatsapp-icon.svg"  height="75px"><br>WhatsApp
+				</a>
+			</td>
+			<td align="center">
+				<a href="mailto:arturodbl@outlook.com?subject=Exciting%20Job%20Opportunity">
+					<img src="img/svg/mail-icon.svg"  height="75px"><br>E-mail
+				</a>  
+			</td>
+			<td align="center">
+				<a href="https://profile.indeed.com/p/arturob-2sf2nxd">
+					<img src="img/svg/indeed-icon.svg" height="75px"><br>Indeed
+				</a>  
+			</td>
+			<td align="center">
+				<a href="">
+					<img src="img/svg/portfolio-icon.svg" height="75px"><br>Portfolio
+				</a>
+			</td>
+		</tr>
+	</table>
+</div>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
