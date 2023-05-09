@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 
 <div style="width: 100%;">
   <a href="https://github.com/Arthur-Benitez/Arthur-Benitez/blame/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="img/svg/welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 
 ## 🌐 Relevant contact links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturobl/)
-
 Click on any icon:
 
 <table cellspacing="5" cellpadding="5" width="100%">
