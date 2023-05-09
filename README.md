@@ -40,16 +40,6 @@ Click on any icon:
 					<img src="img/svg/mail-icon.svg"  height="75px">
 				</a>  
 			</td>
-			<td align="center">
-				<a href="https://profile.indeed.com/p/arturob-2sf2nxd">
-					<img src="img/svg/indeed-icon.svg" height="75px">
-				</a>  
-			</td>
-			<td align="center">
-				<a href="">
-					<img src="img/svg/portfolio-icon.svg" height="75px">
-				</a>
-			</td>
 		</tr>
 		<tr> 
 			<td align="center">
@@ -61,13 +51,35 @@ Click on any icon:
 			<td align="center">
 				E-mail 
 			</td>
+		</tr>
+		<tr>
 			<td align="center">
-				Indeed
+				<a href="https://drive.google.com/file/d/1MLOm-r2B_6Kn_B1s7bwLxVcfmr20BUY8/view?usp=share_link">
+					<img src="img/svg/resume.svg" height="75px">
+				</a>
+			</td>
+			<td align="center">
+				<a href="">
+					<img src="img/svg/portfolio-icon.svg" height="75px">
+				</a>
+			</td>
+			<td align="center">
+				<a href="https://profile.indeed.com/p/arturob-2sf2nxd">
+					<img src="img/svg/indeed-icon.svg" height="75px">
+				</a>  
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+				Resume / CV
 			</td>
 			<td align="center">
 				Portfolio
 			</td>
-		</tr>
+			<td align="center">
+				Indeed
+			</td>
+		</tr> 
 	</table>
 </div>
 
