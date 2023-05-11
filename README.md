@@ -59,7 +59,7 @@ Click on any icon:
 				</a>
 			</td>
 			<td align="center">
-				<a href="">
+				<a href="https://github.com/Arthur-Benitez?tab=repositories">
 					<img src="img/svg/portfolio-icon.svg" height="75px">
 				</a>
 			</td>
@@ -94,10 +94,12 @@ Click on any icon:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arthur-Benitez&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Benitez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Benitez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<table align="left" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td> <img src="https://raw.githubusercontent.com/Arthur-Benitez/github-stats-transparent/output/generated/overview.svg" alt="Arthur-Benitez GitHub stats"  /></td>
+    <td><img src="https://raw.githubusercontent.com/Arthur-Benitez/github-stats-transparent/output/generated/languages.svg" alt="Languages used" /></td>
+  </tr>
+</table>
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Arthur-Benitez&icon=5&color=3)
