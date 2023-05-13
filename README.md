@@ -84,41 +84,74 @@ Click on any icon:
 </div>
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
-
-## ETL & Data Processing
+### ETL & Data Processing
 <div align="center">	
 	<table cellspacing="5" cellpadding="5" width="100%">
 		<tr> 
-			<td align="center">		<img src="img/svg/sql-icon.svg"  height="100px">			</td>
-			<td align="center">		<img src="img/svg/rstudio-icon.svg"  height="100px">		</td>
-			<td align="center">		<img src="img/svg/alteryx-icon.svg"  height="100px">		</td>
-			<td align="center">		<img src="img/svg/excel-icon.svg"  height="100px">			</td>
-			<td align="center">		<img src="img/svg/python-icon.svg"  height="100px">			</td>
+			<td align="center">		<img src="img/svg/sql-icon.svg"  	 height="60px">			</td>
+			<td align="center">		<img src="img/svg/rstudio-icon.svg"  height="60px">			</td>
+			<td align="center">		<img src="img/svg/alteryx-icon.svg"  height="60px">			</td>
+			<td align="center">		<img src="img/svg/excel-icon.svg"  	 height="60px">			</td>
+			<td align="center">		<img src="img/svg/looker-icon.svg"   height="60px">			</td>
+			<td align="center">		<img src="img/svg/python-icon.svg"   height="60px">			</td>
 		</tr>
 		<tr> 
 			<td align="center">		SQL															</td>
 			<td align="center">		R / RStudio													</td>
 			<td align="center">		Alteryx														</td>
 			<td align="center">		Excel														</td>
+			<td align="center">		LookML														</td>
 			<td align="center">		Python														</td>
 		</tr>
 	</table>
 </div>
 
-## Dashboards & Data Visualization
+### Dashboards & Data Visualization
+<div align="center">	
+	<table cellspacing="5" cellpadding="5" width="100%">
+		<tr> 
+			<td align="center">		<img src="img/svg/tableau-icon.svg"  height="60px">			</td>
+			<td align="center">		<img src="img/svg/looker-icon.svg"   height="60px">			</td>
+		</tr>
+		<tr> 
+			<td align="center">		Tableau														</td>
+			<td align="center">		Looker														</td>
+		</tr>
+	</table>
+</div>
 
-## Agile & Scrum Tools
+### Agile & Scrum Tools
+<div align="center">	
+	<table cellspacing="5" cellpadding="5" width="100%">
+		<tr> 
+			<td align="center">		<img src="img/svg/jira-software-icon.svg"	height="60px">	</td>
+			<td align="center">		<img src="img/svg/jsm-icon.svg"				height="60px">	</td>
+			<td align="center">		<img src="img/svg/trello-icon.svg"			height="60px">	</td>
+			<td align="center">		<img src="img/svg/leankit-icon.svg"			height="60px">	</td>
+		</tr>
+		<tr> 
+			<td align="center">		Jira Software												</td>
+			<td align="center">		Jira Service Management										</td>
+			<td align="center">		Trello														</td>
+			<td align="center">		Leankit														</td>
+		</tr>
+	</table>
+</div>
 
-## General Purpose Apps
-
+### General Purpose Apps
+<div align="center">	
+	<table cellspacing="5" cellpadding="5" width="100%">
+		<tr> 
+			<td align="center">		<img src="img/svg/office-icon.svg"  height="60px">			</td>
+			<td align="center">		<img src="img/svg/google-icon.svg"   height="60px">			</td>
+		</tr>
+		<tr> 
+			<td align="center">		Microsoft Office											</td>
+			<td align="center">		Google Workspace											</td>
+		</tr>
+	</table>
+</div>able>
+</div>
 
 
 # 📊 GitHub Stats:
