@@ -93,12 +93,13 @@ Click on any icon:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
-<div align="center">	
+
 | Description					| Repository					| Website							|
 | :-: | :-: | :-: |
 | <img src="img/svg/python-icon.svg" height="50px"/>     | <img src="img/svg/rstudio-icon.svg" height="50px"/> 	| <img src="img/svg/sql-icon.svg" height="50px"/> |
 | Python | R | SQL                          |
-</div>
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
