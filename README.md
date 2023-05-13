@@ -94,16 +94,18 @@ Click on any icon:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-<table align="left" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td>
-		<img src="https://github-readme-stats.vercel.app/api?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="Arthur-Benitez GitHub stats"/>
-	</td>
-    <td>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Languages used"/>
-	</td>
-  </tr>
-</table>
+</div>
+	<table align="left" cellspacing="0" cellpadding="0" width="100%">
+	  <tr>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="Arthur-Benitez GitHub stats"/>
+		</td>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Languages used"/>
+		</td>
+	  </tr>
+	</table>
+</div>
 
 <br>
 <br/>
