@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## 🌐 Relevant contact links:
+## 🌐 Relevant Links:
 Click on any icon:
 
 <div align="center">	
@@ -27,17 +27,17 @@ Click on any icon:
 		<tr> 
 			<td align="center">
 				<a href="https://www.linkedin.com/in/arturobl/">
-					<img src="img/svg/linkedin-icon.svg"  height="75px">
+					<img src="img/svg/linkedin-icon.svg"  height="100px">
 				</a>
 			</td>
 			<td align="center">
 				<a href="https://wa.me/525535967034?text=Exciting%20Job%20Opportunity">
-					<img src="img/svg/whatsapp-icon.svg"  height="75px">
+					<img src="img/svg/whatsapp-icon.svg"  height="100px">
 				</a>
 			</td>
 			<td align="center">
 				<a href="mailto:arturodbl@outlook.com?subject=Exciting%20Job%20Opportunity">
-					<img src="img/svg/mail-icon.svg"  height="75px">
+					<img src="img/svg/mail-icon.svg"  height="100px">
 				</a>  
 			</td>
 		</tr>
@@ -55,17 +55,17 @@ Click on any icon:
 		<tr>
 			<td align="center">
 				<a href="https://drive.google.com/file/d/1MLOm-r2B_6Kn_B1s7bwLxVcfmr20BUY8/view?usp=share_link">
-					<img src="img/svg/resume-icon.svg" height="75px">
+					<img src="img/svg/resume-icon.svg" height="100px">
 				</a>
 			</td>
 			<td align="center">
 				<a href="https://github.com/Arthur-Benitez?tab=repositories">
-					<img src="img/svg/portfolio-icon.svg" height="75px">
+					<img src="img/svg/portfolio-icon.svg" height="100px">
 				</a>
 			</td>
 			<td align="center">
 				<a href="https://profile.indeed.com/p/arturob-2sf2nxd">
-					<img src="img/svg/indeed-icon.svg" height="75px">
+					<img src="img/svg/indeed-icon.svg" height="100px">
 				</a>  
 			</td>
 		</tr>
@@ -93,10 +93,31 @@ Click on any icon:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
-|  	|   		|  	|
-| :-: | :-: | :-: |
-| <img src="img/svg/python-icon.svg" height="50px"/>     | <img src="img/svg/rstudio-icon.svg" height="50px"/> 	| <img src="img/svg/sql-icon.svg" height="50px"/> |
-| Python | R | SQL                          |
+## ETL & Data Processing
+<div align="center">	
+	<table cellspacing="5" cellpadding="5" width="100%">
+		<tr> 
+			<td align="center">		<img src="img/svg/sql-icon.svg"  height="100px">			</td>
+			<td align="center">		<img src="img/svg/rstudio-icon.svg"  height="100px">		</td>
+			<td align="center">		<img src="img/svg/alteryx-icon.svg"  height="100px">		</td>
+			<td align="center">		<img src="img/svg/excel-icon.svg"  height="100px">			</td>
+			<td align="center">		<img src="img/svg/python-icon.svg"  height="100px">			</td>
+		</tr>
+		<tr> 
+			<td align="center">		SQL															</td>
+			<td align="center">		R / RStudio													</td>
+			<td align="center">		Alteryx														</td>
+			<td align="center">		Excel														</td>
+			<td align="center">		Python														</td>
+		</tr>
+	</table>
+</div>
+
+## Dashboards & Data Visualization
+
+## Agile & Scrum Tools
+
+## General Purpose Apps
 
 
 
