@@ -101,6 +101,6 @@ Click on any icon:
   </tr>
 </table>
 
-<br/>
+<br>
 ---
 ![](https://visitcount.itsvg.in/api?id=Arthur-Benitez&icon=5&color=3)
