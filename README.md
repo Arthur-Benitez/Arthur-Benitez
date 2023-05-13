@@ -94,7 +94,6 @@ Click on any icon:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
 
-| Description					| Repository					| Website							|
 | :-: | :-: | :-: |
 | <img src="img/svg/python-icon.svg" height="50px"/>     | <img src="img/svg/rstudio-icon.svg" height="50px"/> 	| <img src="img/svg/sql-icon.svg" height="50px"/> |
 | Python | R | SQL                          |
