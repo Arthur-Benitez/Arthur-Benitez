@@ -96,8 +96,8 @@ Click on any icon:
 # 📊 GitHub Stats:
 <table align="left" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td> <img src="https://raw.githubusercontent.com/Arthur-Benitez/github-stats-transparent/output/generated/overview.svg" alt="Arthur-Benitez GitHub stats"  /></td>
-    <td><img src="https://raw.githubusercontent.com/Arthur-Benitez/github-stats-transparent/output/generated/languages.svg" alt="Languages used" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="Arthur-Benitez GitHub stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Languages used"/></td>
   </tr>
 </table>
 
