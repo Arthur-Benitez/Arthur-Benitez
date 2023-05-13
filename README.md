@@ -93,11 +93,10 @@ Click on any icon:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
-<div align="center">
+
 | :-: | ----------------------------------------------------- | ------------------------------------------------- |
 | <img src="img/svg/python-icon.svg" height="50px"/>     | <img src="img/svg/rstudio-icon.svg" height="50px"/> 	| <img src="img/svg/sql-icon.svg" height="50px"/> |
 | Python | R | SQL                          |
-</div>
 
 
 # 📊 GitHub Stats:
