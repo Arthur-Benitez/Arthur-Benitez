@@ -55,7 +55,7 @@ Click on any icon:
 		<tr>
 			<td align="center">
 				<a href="https://drive.google.com/file/d/1MLOm-r2B_6Kn_B1s7bwLxVcfmr20BUY8/view?usp=share_link">
-					<img src="img/svg/resume.svg" height="75px">
+					<img src="img/svg/resume-icon.svg" height="75px">
 				</a>
 			</td>
 			<td align="center">
