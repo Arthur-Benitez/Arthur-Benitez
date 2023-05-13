@@ -105,6 +105,10 @@ Click on any icon:
   </tr>
 </table>
 
+<br>
+<br/>
+<br />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
