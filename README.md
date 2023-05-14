@@ -91,14 +91,18 @@ Click on any icon:
 			<td align="center">		<img src="img/svg/sql-icon.svg"  	 height="60px">			</td>
 			<td align="center">		<img src="img/svg/rstudio-icon.svg"  height="60px">			</td>
 			<td align="center">		<img src="img/svg/alteryx-icon.svg"  height="60px">			</td>
-			<td align="center">		<img src="img/svg/excel-icon.svg"  	 height="60px">			</td>
-			<td align="center">		<img src="img/svg/looker-icon.svg"   height="60px">			</td>
-			<td align="center">		<img src="img/svg/python-icon.svg"   height="60px">			</td>
 		</tr>
 		<tr> 
 			<td align="center">		SQL															</td>
 			<td align="center">		R / RStudio													</td>
 			<td align="center">		Alteryx														</td>
+		</tr>
+		<tr> 
+			<td align="center">		<img src="img/svg/excel-icon.svg"  	 height="60px">			</td>
+			<td align="center">		<img src="img/svg/looker-icon.svg"   height="60px">			</td>
+			<td align="center">		<img src="img/svg/python-icon.svg"   height="60px">			</td>
+		</tr>
+		<tr> 
 			<td align="center">		Excel														</td>
 			<td align="center">		LookML														</td>
 			<td align="center">		Python														</td>
@@ -110,12 +114,24 @@ Click on any icon:
 <div align="center">	
 	<table cellspacing="5" cellpadding="5" width="100%">
 		<tr> 
-			<td align="center">		<img src="img/svg/tableau-icon.svg"  height="60px">			</td>
-			<td align="center">		<img src="img/svg/looker-icon.svg"   height="60px">			</td>
+			<td align="center">		<img src="img/svg/tableau-icon.svg" 		height="60px">	</td>
+			<td align="center">		<img src="img/svg/looker-icon.svg"			height="60px">	</td>
+			<td align="center">		<img src="img/svg/looker-studio-icon.svg"	height="60px">	</td>
 		</tr>
 		<tr> 
 			<td align="center">		Tableau														</td>
 			<td align="center">		Looker														</td>
+			<td align="center">		Looker Studio												</td>
+		</tr>
+		<tr> 
+			<td align="center">		<img src="img/svg/ggplot2-icon.svg" 		height="60px">	</td>
+			<td align="center">		<img src="img/svg/shiny-icon.svg"			height="60px">	</td>
+			<td align="center">		<img src="img/svg/plotly-icon.svg"	height="60px">	</td>
+		</tr>
+		<tr> 
+			<td align="center">		GGPlot														</td>
+			<td align="center">		Shiny														</td>
+			<td align="center">		Plotly (R)													</td>
 		</tr>
 	</table>
 </div>
