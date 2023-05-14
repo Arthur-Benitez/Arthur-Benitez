@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 # 🌐 Relevant Links:
-###To instantly download my CV in pdf format, [click here](https://github.com/Arthur-Benitez/Arthur-Benitez/files/11471393/CV.Arturo.Benitez.Eng.pdf)
+### To instantly download my CV in pdf format, [click here](https://github.com/Arthur-Benitez/Arthur-Benitez/files/11471393/CV.Arturo.Benitez.Eng.pdf)
 
 For other links, click on any icon:
 
