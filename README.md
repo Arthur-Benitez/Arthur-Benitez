@@ -13,11 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ------------------------------------------------------------------------------------------------------------------>
 
-<div style="width: 100%;">
-  <a href="https://github.com/Arthur-Benitez/Arthur-Benitez/blame/main/welcome.svg">
-    <img src="img/svg/welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
+# About me
+<details>
+	<summary>Click me</summary>
+	
+	<div style="width: 100%;">
+		<img src="img/svg/welcome.svg" style="width: 100%;">
+	</div>
+</details>
+
+
+
 
 # 🌐 Relevant Links:
 ### To instantly download my resume in pdf format, [click here](https://github.com/Arthur-Benitez/Arthur-Benitez/files/11471393/CV.Arturo.Benitez.Eng.pdf).
