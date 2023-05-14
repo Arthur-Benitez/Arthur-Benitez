@@ -131,7 +131,7 @@ Click on any icon:
 		</tr>
 		<tr> 
 			<td align="center">		Jira Software												</td>
-			<td align="center">		Jira Service Management										</td>
+			<td align="center">		Jira SM														</td>
 			<td align="center">		Trello														</td>
 			<td align="center">		Leankit														</td>
 		</tr>
@@ -150,7 +150,7 @@ Click on any icon:
 			<td align="center">		Google Workspace											</td>
 		</tr>
 	</table>
-</div>able>
+</div>
 </div>
 
 
