@@ -19,8 +19,10 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## 🌐 Relevant Links:
-Click on any icon:
+# 🌐 Relevant Links:
+###To instantly download my CV in pdf format, [click here](https://github.com/Arthur-Benitez/Arthur-Benitez/files/11471393/CV.Arturo.Benitez.Eng.pdf)
+
+For other links, click on any icon:
 
 <div align="center">	
 	<table cellspacing="5" cellpadding="5" width="100%">
