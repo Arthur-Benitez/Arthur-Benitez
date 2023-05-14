@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 	<summary>Click me</summary>
 	
 	<div style="width: 100%;">
-		<img src="img/svg/welcome.svg" style="width: 100%;">
+	  <a href="https://github.com/Arthur-Benitez/Arthur-Benitez/blame/main/welcome.svg">
+	    <img src="img/svg/welcome.svg" style="width: 100%;" alt="Click to see the source">
+	  </a>
 	</div>
+	
 </details>
 
 
