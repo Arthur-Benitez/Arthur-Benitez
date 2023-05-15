@@ -15,17 +15,19 @@ Here are some ideas to get you started:
 
 # About me
 <details>
-	<summary>Click me</summary>
-	
-	<div style="width: 100%;">
-	  <a href="https://github.com/Arthur-Benitez/Arthur-Benitez/blame/main/welcome.svg">
-	    <img src="img/svg/welcome.svg" style="width: 100%;" alt="Click to see the source">
-	  </a>
-	</div>
-	
+	<summary>Click here to expand.</summary>	
+	<p align="center" dir="auto">
+		<div style="width: 100%;">
+			<a href="https://github.com/Arthur-Benitez/Arthur-Benitez/blame/main/welcome.svg">
+				<img src="img/svg/welcome.svg" style="width: 100%;" alt="Click to see the source">
+			</a>
+		</div>
+	</p>
 </details>
 
-
+<br>
+<hr>
+<br>
 
 
 # 🌐 Relevant Links:
@@ -94,97 +96,115 @@ For other links, click on any icon:
 	</table>
 </div>
 
+<br>
+<hr>
+<br>
+
 # 💻 Tech Stack:
-### ETL & Data Processing
-<div align="center">	
-	<table cellspacing="5" cellpadding="5" width="100%">
-		<tr> 
-			<td align="center">		<img src="img/svg/sql-icon.svg"  	 height="60px">			</td>
-			<td align="center">		<img src="img/svg/rstudio-icon.svg"  height="60px">			</td>
-			<td align="center">		<img src="img/svg/alteryx-icon.svg"  height="60px">			</td>
-		</tr>
-		<tr> 
-			<td align="center">		SQL															</td>
-			<td align="center">		R / RStudio													</td>
-			<td align="center">		Alteryx														</td>
-		</tr>
-		<tr> 
-			<td align="center">		<img src="img/svg/excel-icon.svg"  	 height="60px">			</td>
-			<td align="center">		<img src="img/svg/looker-icon.svg"   height="60px">			</td>
-			<td align="center">		<img src="img/svg/python-icon.svg"   height="60px">			</td>
-		</tr>
-		<tr> 
-			<td align="center">		Excel														</td>
-			<td align="center">		LookML														</td>
-			<td align="center">		Python														</td>
-		</tr>
-	</table>
-</div>
 
-### Dashboards & Data Visualization
-<div align="center">	
-	<table cellspacing="5" cellpadding="5" width="100%">
-		<tr> 
-			<td align="center">		<img src="img/svg/tableau-icon.svg" 		height="60px">	</td>
-			<td align="center">		<img src="img/svg/looker-icon.svg"			height="60px">	</td>
-			<td align="center">		<img src="img/svg/looker-studio-icon.svg"	height="60px">	</td>
-		</tr>
-		<tr> 
-			<td align="center">		Tableau														</td>
-			<td align="center">		Looker														</td>
-			<td align="center">		Looker Studio												</td>
-		</tr>
-		<tr> 
-			<td align="center">		<img src="img/svg/ggplot2-icon.svg" 		height="60px">	</td>
-			<td align="center">		<img src="img/svg/shiny-icon.svg"			height="60px">	</td>
-			<td align="center">		<img src="img/svg/plotly-icon.svg"	height="60px">	</td>
-		</tr>
-		<tr> 
-			<td align="center">		GGPlot														</td>
-			<td align="center">		Shiny														</td>
-			<td align="center">		Plotly (R)													</td>
-		</tr>
-	</table>
-</div>
+<details>
+	<summary>Click here to expand.</summary>	
+	<p align="center" dir="auto">
+		<h3>ETL & Data Processing</h3>
+		<div align="center">	
+			<table cellspacing="5" cellpadding="5" width="100%">
+				<tr> 
+					<td align="center">		<img src="img/svg/sql-icon.svg"  	 height="60px">			</td>
+					<td align="center">		<img src="img/svg/rstudio-icon.svg"  height="60px">			</td>
+					<td align="center">		<img src="img/svg/alteryx-icon.svg"  height="60px">			</td>
+				</tr>
+				<tr> 
+					<td align="center">		SQL															</td>
+					<td align="center">		R / RStudio													</td>
+					<td align="center">		Alteryx														</td>
+				</tr>
+				<tr> 
+					<td align="center">		<img src="img/svg/excel-icon.svg"  	 height="60px">			</td>
+					<td align="center">		<img src="img/svg/looker-icon.svg"   height="60px">			</td>
+					<td align="center">		<img src="img/svg/python-icon.svg"   height="60px">			</td>
+				</tr>
+				<tr> 
+					<td align="center">		Excel														</td>
+					<td align="center">		LookML														</td>
+					<td align="center">		Python														</td>
+				</tr>
+			</table>
+		</div>
+		<h3>Dashboards & Data Visualization</h3>
+		<div align="center">	
+			<table cellspacing="5" cellpadding="5" width="100%">
+				<tr> 
+					<td align="center">		<img src="img/svg/tableau-icon.svg" 		height="60px">	</td>
+					<td align="center">		<img src="img/svg/looker-icon.svg"			height="60px">	</td>
+					<td align="center">		<img src="img/svg/looker-studio-icon.svg"	height="60px">	</td>
+				</tr>
+				<tr> 
+					<td align="center">		Tableau														</td>
+					<td align="center">		Looker														</td>
+					<td align="center">		Looker Studio												</td>
+				</tr>
+				<tr> 
+					<td align="center">		<img src="img/svg/ggplot2-icon.svg" 		height="60px">	</td>
+					<td align="center">		<img src="img/svg/shiny-icon.svg"			height="60px">	</td>
+					<td align="center">		<img src="img/svg/plotly-icon.svg"	height="60px">	</td>
+				</tr>
+				<tr> 
+					<td align="center">		GGPlot														</td>
+					<td align="center">		Shiny														</td>
+					<td align="center">		Plotly (R)													</td>
+				</tr>
+			</table>
+		</div>
+		<h3>Agile & Scrum Tools</h3>
+		<div align="center">	
+			<table cellspacing="5" cellpadding="5" width="100%">
+				<tr> 
+					<td align="center">		<img src="img/svg/jira-software-icon.svg"	height="60px">	</td>
+					<td align="center">		<img src="img/svg/jsm-icon.svg"				height="60px">	</td>
+					<td align="center">		<img src="img/svg/trello-icon.svg"			height="60px">	</td>
+					<td align="center">		<img src="img/svg/leankit-icon.svg"			height="60px">	</td>
+				</tr>
+				<tr> 
+					<td align="center">		Jira Software												</td>
+					<td align="center">		Jira SM														</td>
+					<td align="center">		Trello														</td>
+					<td align="center">		Leankit														</td>
+				</tr>
+			</table>
+		</div>
+		<h3>General Purpose Apps</h3>
+		<div align="center">	
+			<table cellspacing="5" cellpadding="5" width="100%">
+				<tr> 
+					<td align="center">		<img src="img/svg/office-icon.svg"  height="60px">			</td>
+					<td align="center">		<img src="img/svg/google-icon.svg"   height="60px">			</td>
+				</tr>
+				<tr> 
+					<td align="center">		Microsoft Office											</td>
+					<td align="center">		Google Workspace											</td>
+				</tr>
+			</table>
+		</div>
+	</p>
+</details>
 
-### Agile & Scrum Tools
-<div align="center">	
-	<table cellspacing="5" cellpadding="5" width="100%">
-		<tr> 
-			<td align="center">		<img src="img/svg/jira-software-icon.svg"	height="60px">	</td>
-			<td align="center">		<img src="img/svg/jsm-icon.svg"				height="60px">	</td>
-			<td align="center">		<img src="img/svg/trello-icon.svg"			height="60px">	</td>
-			<td align="center">		<img src="img/svg/leankit-icon.svg"			height="60px">	</td>
-		</tr>
-		<tr> 
-			<td align="center">		Jira Software												</td>
-			<td align="center">		Jira SM														</td>
-			<td align="center">		Trello														</td>
-			<td align="center">		Leankit														</td>
-		</tr>
-	</table>
-</div>
-
-### General Purpose Apps
-<div align="center">	
-	<table cellspacing="5" cellpadding="5" width="100%">
-		<tr> 
-			<td align="center">		<img src="img/svg/office-icon.svg"  height="60px">			</td>
-			<td align="center">		<img src="img/svg/google-icon.svg"   height="60px">			</td>
-		</tr>
-		<tr> 
-			<td align="center">		Microsoft Office											</td>
-			<td align="center">		Google Workspace											</td>
-		</tr>
-	</table>
-</div>
-</div>
+<br>
+<hr>
+<br>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
+<details>
+	<summary>Click here to expand.</summary>	
+	<p align="center" dir="auto">
+		<img src="https://github-readme-stats.vercel.app/api?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Benitez&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+	</p>
+</details>
 
----
+<br>
+<hr>
+<br>
+
 ![](https://visitcount.itsvg.in/api?id=Arthur-Benitez&icon=5&color=3)
 
