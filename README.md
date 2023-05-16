@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ------------------------------------------------------------------------------------------------------------------>
 
-
 <br>
-<hr>
 <br>
-
 
 # 🌐 Relevant Links:
 ### To instantly download my resume in PDF format, [click here](https://github.com/Arthur-Benitez/Arthur-Benitez/files/11471393/CV.Arturo.Benitez.Eng.pdf).
