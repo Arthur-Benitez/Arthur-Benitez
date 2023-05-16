@@ -13,17 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ------------------------------------------------------------------------------------------------------------------>
 
-# About me
-<details>
-	<summary>Click here to expand.</summary>	
-	<p align="center" dir="auto">
-		<div style="width: 100%;">
-			<a href="https://github.com/Arthur-Benitez/Arthur-Benitez/blame/main/welcome.svg">
-				<img src="img/svg/welcome.svg" style="width: 100%;" alt="Click to see the source">
-			</a>
-		</div>
-	</p>
-</details>
 
 <br>
 <hr>
@@ -31,7 +20,7 @@ Here are some ideas to get you started:
 
 
 # 🌐 Relevant Links:
-### To instantly download my resume in pdf format, [click here](https://github.com/Arthur-Benitez/Arthur-Benitez/files/11471393/CV.Arturo.Benitez.Eng.pdf).
+### To instantly download my resume in PDF format, [click here](https://github.com/Arthur-Benitez/Arthur-Benitez/files/11471393/CV.Arturo.Benitez.Eng.pdf).
 
 For other links, click on any icon:
 
@@ -100,8 +89,23 @@ For other links, click on any icon:
 <hr>
 <br>
 
-# 💻 Tech Stack:
+# About me
+<details>
+	<summary>Click here to expand.</summary>	
+	<p align="center" dir="auto">
+		<div style="width: 100%;">
+			<a href="https://github.com/Arthur-Benitez/Arthur-Benitez/blame/main/welcome.svg">
+				<img src="img/svg/welcome.svg" style="width: 100%;" alt="Click to see the source">
+			</a>
+		</div>
+	</p>
+</details>
 
+<br>
+<hr>
+<br>
+
+# 💻 Tech Stack:
 <details>
 	<summary>Click here to expand.</summary>	
 	<p align="center" dir="auto">
