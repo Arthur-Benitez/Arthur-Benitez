@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 # 🌐 Relevant Links:
-### To instantly download my resume in PDF format, [click here](https://github.com/Arthur-Benitez/Arthur-Benitez/files/11471393/CV.Arturo.Benitez.Eng.pdf).
+### To instantly download my resume in PDF format, [click here](https://github.com/Arthur-Benitez/Arthur-Benitez/files/11561024/CV.Arturo.Benitez.Eng.pdf).
 
 For other links, click on any icon:
 
